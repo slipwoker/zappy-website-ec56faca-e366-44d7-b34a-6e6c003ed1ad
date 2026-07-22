@@ -1,0 +1,108 @@
+# Kalarno — Generative Engine Optimization Map
+
+> An online Shopify e-commerce store focused on solving problems for its customers. The specific niche, products, and target audience are yet to be defined, but the core concept revolves around offering practical solutions through an online retail experience.
+
+---
+
+## Pages
+
+### בית
+https://kalarno-ec56faca.zappy5.app
+מחפשים את הפלטפורמה הטובה ביותר למסחר אלקטרוני לעסק קטן? קלארנו מציעה חוויית קנייה חכמה עם פתרונות פרקטיים שמפשטים את החיים. היכנסו וגלו עולם של אפשרויות חדשות!
+
+### גישת הפתרון
+https://kalarno-ec56faca.zappy5.app/solution-approach
+גישת הפתרון של קלארנו הופכת את ניהול המלאי במסחר האלקטרוני לפשוט ויעיל. גלו שיטה ייחודית שמתאימה בדיוק לצרכים שלכם ומניעה תוצאות אמיתיות. לחצו לפרטים!
+
+### מדריך מתנות ואקו
+https://kalarno-ec56faca.zappy5.app/gift-eco-guide
+מדריך המתנות והאקו של קלארנו עוזר לכם לבחור מוצרים מושלמים שמכבדים את הסביבה. שלבו ערכים ירוקים עם חוויית שופינג בלתי נשכחת. הורידו את המדריך עכשיו!
+
+### אודות קלארנו
+https://kalarno-ec56faca.zappy5.app/about
+קלארנו נולדה כדי לתת מענה אמיתי לעסקים שרוצים למכור חכם יותר. הכירו את החזון שמניע אותנו לספק את הפלטפורמה הטובה ביותר למסחר אלקטרוני לעסק קטן. בואו להכיר!
+
+### צור קשר
+https://kalarno-ec56faca.zappy5.app/contact
+מוכנים לקחת את העסק שלכם לשלב הבא? צרו קשר עם קלארנו וגלו איך פלטפורמות מסחר אלקטרוני B2B יכולות לשדרג את המכירות שלכם. אנחנו כאן כדי לעזור!
+
+### Products
+https://kalarno-ec56faca.zappy5.app/products
+המוצרים שלנו - Kalarno
+
+### Cart
+https://kalarno-ec56faca.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://kalarno-ec56faca.zappy5.app/checkout
+תשלום
+
+### Login
+https://kalarno-ec56faca.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://kalarno-ec56faca.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://kalarno-ec56faca.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://kalarno-ec56faca.zappy5.app/product/:slug
+פרטי המוצר - Kalarno
+
+### Category
+https://kalarno-ec56faca.zappy5.app/category/:slug
+מוצרים - Kalarno
+
+### תודה רבה | Kalarno
+https://kalarno-ec56faca.zappy5.app/thank-you
+תודה על פנייתך. ההודעה התקבלה בהצלחה על ידי Kalarno - best ecommerce platform for small business.
+
+## Legal & Policy
+
+### Privacy Policy
+https://kalarno-ec56faca.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://kalarno-ec56faca.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://kalarno-ec56faca.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Kalarno
+An online Shopify e-commerce store focused on solving problems for its customers. The specific niche, products, and target audience are yet to be defined, but the core concept revolves around offering practical solutions through an online retail experience.
+
+## Target Audience
+- צרכנים ידידותיים לסביבה
+- קונים טכנולוגיים
+- קונים למתנות
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://kalarno-ec56faca.zappy5.app/sitemap.xml
+- Robots: https://kalarno-ec56faca.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kalarno-ec56faca.zappy5.app/llms-full.txt
+- Products (JSON): https://kalarno-ec56faca.zappy5.app/products.json
+- Products (Google Merchant RSS): https://kalarno-ec56faca.zappy5.app/product-feed.xml
